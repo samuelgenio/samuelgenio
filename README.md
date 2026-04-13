@@ -3,7 +3,6 @@
 - :earth_americas:  Brazil - SC - Tubarão
 
 <div> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgenio&layout=compact&langs_count=6&theme=white"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelgenio&theme=tokyonight" alt="mystreak"/>
 </div>
 
